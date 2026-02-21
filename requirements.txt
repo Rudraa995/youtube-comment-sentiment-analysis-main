@@ -1,0 +1,7 @@
+streamlit
+emoji
+nltk
+google-api-python-client
+Pillow
+matplotlib
+reportlab
