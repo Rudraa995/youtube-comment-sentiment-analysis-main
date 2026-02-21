@@ -1102,7 +1102,6 @@ st.markdown("""
             animation: slide-in-left 0.5s ease-out both;
         }
 
-
         @keyframes slide-in-left {
             0% {
                 transform: translateX(-100%);
